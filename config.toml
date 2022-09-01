@@ -1,4 +1,4 @@
 baseURL = "https://duarch.github.io/hugo"
 languageCode = "en-us"
 title = "Duarch"
-theme = "portio @ ccae051"
+theme = "portio"
