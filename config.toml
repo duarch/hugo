@@ -1,4 +1,4 @@
-baseURL = "https://duarch.github.io/hugo"
+baseURL = "https://hugo-zeta-self.vercel.app/"
 languageCode = "en-us"
 title = "Duarch"
 theme = "portio"
